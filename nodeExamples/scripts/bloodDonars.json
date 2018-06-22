@@ -1,0 +1,37 @@
+{
+  "bloodDonors": [
+    {
+      "id": 1,
+      "name": "ramesh",
+      "image": "images/ramesh.jpg"
+    },
+    {
+      "id": 2,
+      "name": "suresh",
+      "image": "images/suresh.jpg"
+    },
+    {
+      "id": 3,
+      "name": "kumar",
+      "image": "images/kumar.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Satish",
+      "image": "image/satish.jpg"
+    },
+    {
+      "fullName": "Kushal",
+      "dateOfBirth": "2018-06-03",
+      "gender": "male",
+      "bloodGroup": "B+",
+      "weight": "54",
+      "contactNumbers": {
+        "mobileNumber": "1551212351",
+        "landline": "55212312"
+      },
+      "city": "Delhi",
+      "id": 5
+    }
+  ]
+}
